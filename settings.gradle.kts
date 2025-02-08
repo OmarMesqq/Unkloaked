@@ -24,5 +24,7 @@ dependencyResolutionManagement {
     }
 }
 
+includeBuild("../LSPosed")
+
 rootProject.name = "Unkloaked"
 include(":app")
